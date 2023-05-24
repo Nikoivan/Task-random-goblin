@@ -1,0 +1,1 @@
+body{color:#999}.field{background-color:orange;border-radius:5px;display:flex;flex-wrap:wrap;height:500px;margin:auto;width:500px}.cell{background-color:red;height:100px;list-style-type:none;margin:10px;position:relative;width:100px;z-index:1}.goblin{position:absolute;right:-10px;top:-10px;z-index:2}
