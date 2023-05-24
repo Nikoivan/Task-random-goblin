@@ -1,7 +1,5 @@
-import Field from "./field/field";
+import GameField from "./field/field";
 
-const field = new Field();
-
-console.log(field);
+const field = new GameField();
 
 field.start();
